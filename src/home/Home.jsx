@@ -186,7 +186,7 @@ function Home() {
             <h2 className="sectionTitle">Hamkor Oliygohlar</h2>
             <Swiper
               spaceBetween={30}
-              slidesPerView="auto"
+              slidesPerView={5}
               loop={true}
               freeMode={true}
               freeModeMomentum={false}
