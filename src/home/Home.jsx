@@ -25,7 +25,7 @@ function Home() {
             </form>
           </div>
           <div className="heroImg">
-            <img src="/public/heroimg.png" alt="" />
+            <img src="/heroimg.png" alt="" />
           </div>
         </div>
       </div>
@@ -37,7 +37,7 @@ function Home() {
             <div className="dormitoryBlock">
               <div className="card">
                 <div className="cardImg">
-                  <img src="/public/dormitory.jpeg" alt="" />
+                  <img src="/dormitory.jpeg" alt="" />
                 </div>
                 <div className="cardText">
                   <h2>FDTU(TATUFF) DXSH 2</h2>
@@ -54,7 +54,7 @@ function Home() {
               </div>
               <div className="card">
                 <div className="cardImg">
-                  <img src="/public/dormitory.jpeg" alt="" />
+                  <img src="/dormitory.jpeg" alt="" />
                 </div>
                 <div className="cardText">
                   <h2>FDTU(TATUFF) DXSH 2</h2>
@@ -71,7 +71,7 @@ function Home() {
               </div>
               <div className="card">
                 <div className="cardImg">
-                  <img src="/public/dormitory.jpeg" alt="" />
+                  <img src="/dormitory.jpeg" alt="" />
                 </div>
                 <div className="cardText">
                   <h2>FDTU(TATUFF) DXSH 2</h2>
@@ -88,7 +88,7 @@ function Home() {
               </div>
               <div className="card">
                 <div className="cardImg">
-                  <img src="/public/dormitory.jpeg" alt="" />
+                  <img src="/dormitory.jpeg" alt="" />
                 </div>
                 <div className="cardText">
                   <h2>FDTU(TATUFF) DXSH 2</h2>
@@ -115,7 +115,7 @@ function Home() {
             <div className="cityBlock">
               <div className="univerCard">
                 <div className="cardImg">
-                  <img src="/public/Toshkent.png" alt="" />
+                  <img src="/Toshkent.png" alt="" />
                 </div>
                 <div className="cardText">
                   <h2>Toshkent</h2>
@@ -123,7 +123,7 @@ function Home() {
               </div>
               <div className="univerCard">
                 <div className="cardImg">
-                  <img src="/public/Toshkent.png" alt="" />
+                  <img src="/Toshkent.png" alt="" />
                 </div>
                 <div className="cardText">
                   <h2>Toshkent</h2>
@@ -131,7 +131,7 @@ function Home() {
               </div>
               <div className="univerCard">
                 <div className="cardImg">
-                  <img src="/public/Toshkent.png" alt="" />
+                  <img src="/Toshkent.png" alt="" />
                 </div>
                 <div className="cardText">
                   <h2>Toshkent</h2>
@@ -139,7 +139,7 @@ function Home() {
               </div>
               <div className="univerCard">
                 <div className="cardImg">
-                  <img src="/public/Toshkent.png" alt="" />
+                  <img src="/Toshkent.png" alt="" />
                 </div>
                 <div className="cardText">
                   <h2>Toshkent</h2>
@@ -147,7 +147,7 @@ function Home() {
               </div>
               <div className="univerCard">
                 <div className="cardImg">
-                  <img src="/public/Toshkent.png" alt="" />
+                  <img src="/Toshkent.png" alt="" />
                 </div>
                 <div className="cardText">
                   <h2>Toshkent</h2>
@@ -155,7 +155,7 @@ function Home() {
               </div>
               <div className="univerCard">
                 <div className="cardImg">
-                  <img src="/public/Toshkent.png" alt="" />
+                  <img src="/Toshkent.png" alt="" />
                 </div>
                 <div className="cardText">
                   <h2>Toshkent</h2>
@@ -163,7 +163,7 @@ function Home() {
               </div>
               <div className="univerCard">
                 <div className="cardImg">
-                  <img src="/public/Toshkent.png" alt="" />
+                  <img src="/Toshkent.png" alt="" />
                 </div>
                 <div className="cardText">
                   <h2>Toshkent</h2>
@@ -171,7 +171,7 @@ function Home() {
               </div>
               <div className="univerCard">
                 <div className="cardImg">
-                  <img src="/public/Toshkent.png" alt="" />
+                  <img src="/Toshkent.png" alt="" />
                 </div>
                 <div className="cardText">
                   <h2>Toshkent</h2>
@@ -203,42 +203,42 @@ function Home() {
             >
               <SwiperSlide>
                 <div className="partner">
-                  <img src="/public/ozmu.png" alt="" />
+                  <img src="/ozmu.png" alt="" />
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="partner">
-                  <img src="/public/ozmu.png" alt="" />
+                  <img src="/ozmu.png" alt="" />
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="partner">
-                  <img src="/public/ozmu.png" alt="" />
+                  <img src="/ozmu.png" alt="" />
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="partner">
-                  <img src="/public/ozmu.png" alt="" />
+                  <img src="/ozmu.png" alt="" />
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="partner">
-                  <img src="/public/ozmu.png" alt="" />
+                  <img src="/ozmu.png" alt="" />
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="partner">
-                  <img src="/public/ozmu.png" alt="" />
+                  <img src="/ozmu.png" alt="" />
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="partner">
-                  <img src="/public/ozmu.png" alt="" />
+                  <img src="/ozmu.png" alt="" />
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="partner">
-                  <img src="/public/ozmu.png" alt="" />
+                  <img src="/ozmu.png" alt="" />
                 </div>
               </SwiperSlide>
             </Swiper>
