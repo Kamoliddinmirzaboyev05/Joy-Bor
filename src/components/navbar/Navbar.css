@@ -1,0 +1,41 @@
+.navbarPage {
+  position: fixed;
+  width: 100%;
+  backdrop-filter: blur(15px);
+  background-color: rgba(255, 255, 255, 0.286);
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+nav .container {
+  padding: 15px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+.logo img {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+.navLinks {
+  padding: 5px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  backdrop-filter: blur(10px);
+  width: 300px;
+  position: relative; /* Orqa fondan to'g'ri ta'sir qilish uchun */
+}
+.dashboard {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
