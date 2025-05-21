@@ -83,7 +83,7 @@ function Home() {
             <div className="dormitoriesBlock">
               <div className="dormitoryBox">
                 <div className="dormitoryImg">
-                  <img src="/public/dormitory.jpeg" alt="" />
+                  <img src="/dormitory.jpeg" alt="" />
                 </div>
                 <div className="dormitoryText">
                   <div className="row">
@@ -113,7 +113,7 @@ function Home() {
               </div>
               <div className="dormitoryBox">
                 <div className="dormitoryImg">
-                  <img src="/public/dormitory.jpeg" alt="" />
+                  <img src="/dormitory.jpeg" alt="" />
                 </div>
                 <div className="dormitoryText">
                   <div className="row">
@@ -143,7 +143,7 @@ function Home() {
               </div>
               <div className="dormitoryBox">
                 <div className="dormitoryImg">
-                  <img src="/public/dormitory.jpeg" alt="" />
+                  <img src="/dormitory.jpeg" alt="" />
                 </div>
                 <div className="dormitoryText">
                   <div className="row">
@@ -173,7 +173,7 @@ function Home() {
               </div>
               <div className="dormitoryBox">
                 <div className="dormitoryImg">
-                  <img src="/public/dormitory.jpeg" alt="" />
+                  <img src="/dormitory.jpeg" alt="" />
                 </div>
                 <div className="dormitoryText">
                   <div className="row">
@@ -210,7 +210,7 @@ function Home() {
             <div className="dormitoriesBlock">
               <div className="dormitoryBox">
                 <div className="dormitoryImg">
-                  <img src="/public/dormitory.jpeg" alt="" />
+                  <img src="/dormitory.jpeg" alt="" />
                 </div>
                 <div className="dormitoryText">
                   <div className="row">
@@ -240,7 +240,7 @@ function Home() {
               </div>
               <div className="dormitoryBox">
                 <div className="dormitoryImg">
-                  <img src="/public/dormitory.jpeg" alt="" />
+                  <img src="/dormitory.jpeg" alt="" />
                 </div>
                 <div className="dormitoryText">
                   <div className="row">
@@ -270,7 +270,7 @@ function Home() {
               </div>
               <div className="dormitoryBox">
                 <div className="dormitoryImg">
-                  <img src="/public/dormitory.jpeg" alt="" />
+                  <img src="/dormitory.jpeg" alt="" />
                 </div>
                 <div className="dormitoryText">
                   <div className="row">
@@ -300,7 +300,7 @@ function Home() {
               </div>
               <div className="dormitoryBox">
                 <div className="dormitoryImg">
-                  <img src="/public/dormitory.jpeg" alt="" />
+                  <img src="/dormitory.jpeg" alt="" />
                 </div>
                 <div className="dormitoryText">
                   <div className="row">
@@ -335,7 +335,7 @@ function Home() {
           <div className="container">
             <h2 className="sectionTitle">Joy Bor Xaritada</h2>
             <div className="mapBlock">
-              <img src="/public/map.webp" alt="" />
+              <img src="/map.webp" alt="" />
             </div>
           </div>
         </section>
@@ -359,52 +359,52 @@ function Home() {
               >
                 <SwiperSlide>
                   <div className="universityLogo">
-                    <img src="/public/tuit.jpg" alt="" />
+                    <img src="/tuit.jpg" alt="" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="universityLogo">
-                    <img src="/public/tuit.jpg" alt="" />
+                    <img src="/tuit.jpg" alt="" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="universityLogo">
-                    <img src="/public/tuit.jpg" alt="" />
+                    <img src="/tuit.jpg" alt="" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="universityLogo">
-                    <img src="/public/tuit.jpg" alt="" />
+                    <img src="/tuit.jpg" alt="" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="universityLogo">
-                    <img src="/public/tuit.jpg" alt="" />
+                    <img src="/tuit.jpg" alt="" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="universityLogo">
-                    <img src="/public/tuit.jpg" alt="" />
+                    <img src="/tuit.jpg" alt="" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="universityLogo">
-                    <img src="/public/tuit.jpg" alt="" />
+                    <img src="/tuit.jpg" alt="" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="universityLogo">
-                    <img src="/public/tuit.jpg" alt="" />
+                    <img src="/tuit.jpg" alt="" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="universityLogo">
-                    <img src="/public/tuit.jpg" alt="" />
+                    <img src="/tuit.jpg" alt="" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="universityLogo">
-                    <img src="/public/tuit.jpg" alt="" />
+                    <img src="/tuit.jpg" alt="" />
                   </div>
                 </SwiperSlide>
               </Swiper>
