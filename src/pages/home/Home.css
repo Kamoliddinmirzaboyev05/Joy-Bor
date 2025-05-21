@@ -1,0 +1,237 @@
+.hero {
+  background: url("/hero.jpg") no-repeat center center;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  max-height: 100vh;
+  padding-top: 200px;
+  padding-bottom: 150px;
+  /* padding: 150px 0; */
+  display: flex;
+  align-items: center;
+  position: relative;
+  justify-content: center;
+}
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.heroMainText {
+  color: white;
+  font-size: 62px;
+  text-align: center;
+}
+.subMainText {
+  color: white;
+  font-size: 38px;
+  text-align: center;
+}
+.hero .container {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.heroFilter {
+  width: 100%;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: white;
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.searchInput {
+  padding: 18px;
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  width: 300px;
+  outline: none;
+}
+.searchBtn {
+  padding: 18px 50px;
+  border: none;
+  border-radius: 5px;
+  background-color: #012742;
+  color: white;
+  cursor: pointer;
+}
+/* styling main section */
+.sectionTitle {
+  font-size: 24px;
+  font-weight: 600;
+  padding-bottom: 30px;
+}
+section {
+  padding: 40px 0;
+  background-color: white;
+}
+.dormitoriesBlock {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+.dormitoryBox {
+  width: 270px;
+  border-radius: 5px;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  transition: all 0.5s ease;
+  box-shadow: 0px 0px 15px #01274225;
+  cursor: pointer;
+}
+.dormitoryBox:hover {
+  transform: scale(0.98);
+}
+.dormitoryImg {
+  width: 100%;
+  overflow: hidden;
+}
+.dormitoryImg img {
+  height: 150px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.dormitoryText {
+  padding: 15px 10px;
+}
+.row {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding-bottom: 10px;
+}
+.row p {
+  font-size: 12px;
+}
+.location {
+  padding: 5px;
+  border-radius: 3px;
+  background-color: #007bff25;
+  width: fit-content;
+}
+.location p {
+  font-size: 12px;
+}
+.rowItem {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.boxMainInfo {
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.boxMainInfo p {
+  font-size: 12px !important;
+}
+.rowItem {
+  background-color: #daecff;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #e7e7e7;
+}
+.boxBtn {
+  display: flex;
+  justify-content: end;
+}
+.boxBtn button {
+  padding: 5px 10px;
+  border: #012742 1px solid;
+  background-color: #012742;
+  color: white;
+  border-radius: 5px;
+}
+.mapBlock {
+  width: 100%;
+  max-height: 400px;
+  overflow: hidden;
+}
+.mapBlock img {
+  width: 100%;
+}
+.universityLogo {
+  width: 100px;
+  height: 100px;
+}
+.universityLogo img {
+  width: 100%;
+  object-fit: contain;
+}
+.swiper-pagination {
+  display: none !important;
+}
+.swiper-button-next,
+.swiper-button-prev {
+  display: none !important;
+}
+.contactme {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contactForm {
+  border: 1px solid #01274260;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 0 auto;
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  flex-direction: column;
+  width: 600px;
+}
+.contactForm .row {
+  width: 100%;
+  justify-content: space-between;
+}
+.contactForm .rowItem {
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.contactForm .rowItem label {
+  font-size: 14px;
+  color: #012742;
+}
+.contactForm .rowItem input,
+.contactForm .rowItem textarea {
+  padding: 7px 15px;
+  width: 100%;
+  border-radius: 3px;
+  outline: none;
+  border: #c4c4c4 1px solid;
+  font-size: 16px;
+}
+.contactForm .rowItem textarea {
+  height: 120px;
+}
+.contactForm .rowItem input:focus,
+.contactForm .rowItem textarea:focus {
+  border-color: #012742;
+}
+.buttonRow {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+.sendBtn {
+  width: 100%;
+  padding: 10px;
+  border: #007bff 1px solid;
+  background-color: #012742;
+  color: white;
+  border-radius: 5px;
+}
