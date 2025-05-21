@@ -1,0 +1,48 @@
+footer {
+  background-color: #010a11;
+  padding: 60px 0;
+  color: white;
+}
+footer .container {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+}
+.logoSide {
+  width: 300px;
+}
+.logoText {
+  font-size: 15px;
+  padding-top: 30px;
+}
+
+.footerLinks {
+  display: flex;
+  align-items: start;
+  gap: 100px;
+}
+.footerLinks .col {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 10px;
+}
+.footerLinks .col h4 {
+  padding-bottom: 20px;
+}
+.footerLinks .col a {
+  display: flex;
+  align-items: center;
+  transition: all .5s ease;
+  gap: 5px;
+}
+.footerLinks .col a:hover {
+  color: #fc9e35;
+  text-decoration: underline;
+}
+footer a {
+  color: white;
+}
+.logo h2 {
+  color: white;
+}
